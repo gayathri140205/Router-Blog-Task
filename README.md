@@ -1,8 +1,11 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I've recently crafted a website using React, a popular JavaScript library for building user interfaces. 
+This technology allowed me to create a dynamic and responsive website with efficient
+rendering and seamless user interactions.
+Overall, the utilization of React has not only enhanced the website's 
+functionality but also facilitated a more maintainable and scalable codebase.
 
-Currently, two official plugins are available:
+DEPLOYED LINK:DEPLOY: https://creative-snickerdoodle-5eedc6.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
